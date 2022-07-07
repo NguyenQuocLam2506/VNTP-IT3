@@ -1,0 +1,16 @@
+.right-margin {
+  margin-right: 200px;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  padding: 20px 40px;
+  margin: 10px;
+  border: 2px solid #000;
+}
+.red-border {
+  border: 2px solid rgb(255, 0, 0);
+}
+.yellow-background {
+  background: rgb(252, 252, 0);
+}
